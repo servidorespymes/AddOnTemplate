@@ -1,0 +1,4 @@
+C:\Users\dtuarez\Documents\DB\QueryComplejos\Niveles\Sincro\DIAPI\AddOnTemplate\Pruebas\obj\Debug\net6.0-windows\AddOnTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtuarez\Documents\DB\QueryComplejos\Niveles\Sincro\DIAPI\AddOnTemplate\Pruebas\obj\Debug\net6.0-windows\AddOnTemplate.AssemblyInfoInputs.cache
+C:\Users\dtuarez\Documents\DB\QueryComplejos\Niveles\Sincro\DIAPI\AddOnTemplate\Pruebas\obj\Debug\net6.0-windows\AddOnTemplate.AssemblyInfo.cs
+C:\Users\dtuarez\Documents\DB\QueryComplejos\Niveles\Sincro\DIAPI\AddOnTemplate\Pruebas\obj\Debug\net6.0-windows\AddOnTemplate.csproj.CoreCompileInputs.cache

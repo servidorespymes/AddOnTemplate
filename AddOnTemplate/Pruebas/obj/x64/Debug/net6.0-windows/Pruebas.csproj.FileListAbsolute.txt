@@ -1,0 +1,17 @@
+D:\Users\frivera\source\repos\Pruebas\Pruebas\bin\x64\Debug\net6.0-windows\Pruebas.exe
+D:\Users\frivera\source\repos\Pruebas\Pruebas\bin\x64\Debug\net6.0-windows\Pruebas.deps.json
+D:\Users\frivera\source\repos\Pruebas\Pruebas\bin\x64\Debug\net6.0-windows\Pruebas.runtimeconfig.json
+D:\Users\frivera\source\repos\Pruebas\Pruebas\bin\x64\Debug\net6.0-windows\Pruebas.dll
+D:\Users\frivera\source\repos\Pruebas\Pruebas\bin\x64\Debug\net6.0-windows\Pruebas.pdb
+D:\Users\frivera\source\repos\Pruebas\Pruebas\bin\x64\Debug\net6.0-windows\SAPBusinessOneSDK.dll
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.csproj.AssemblyReference.cache
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.AssemblyInfoInputs.cache
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.AssemblyInfo.cs
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.csproj.CoreCompileInputs.cache
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.csproj.CopyComplete
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.dll
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\refint\Pruebas.dll
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.pdb
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\Pruebas.genruntimeconfig.cache
+D:\Users\frivera\source\repos\Pruebas\Pruebas\obj\x64\Debug\net6.0-windows\ref\Pruebas.dll
